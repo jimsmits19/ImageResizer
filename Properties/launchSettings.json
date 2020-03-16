@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "ImageResizer": {
+      "commandName": "Project"
+    },
+    "ShowHelp": {
+      "commandName": "Project",
+      "commandLineArgs": "?"
+    },
+    "NominalPath": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\james\\OneDrive\\Jason Cases\\Optimus\\ImageFactoryTest\\case_photos\\case_photos\" height 250"
+    }
+  }
+}
